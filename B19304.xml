@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties letter to the artillery company: with an account of their proceedings at the choice of several officers for the ensuing year, on Wednesday, the 9th. of this instant, February, 1680/1.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19304</idno><idno type="EEBO-CITATION">99889257</idno>
+  <idno type="VID">186801</idno>
+  <idno type="EEBO-PROQUEST">2240912349</idno>
+  
+            <idno type="OCLC"> 8641505</idno>
+            <idno type="STC">Wing C3113</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.1*.[18]</idno>
+            <idno type="STC">ESTC R24880</idno>
+            <idno type="PROQUEST">ocm99889257</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889257e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186801)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:4[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties letter to the artillery company: with an account of their proceedings at the choice of several officers for the ensuing year, on Wednesday, the 9th. of this instant, February, 1680/1.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for V.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actually an account of the meeting of the artillery company which includes a brief letter from the King on verso.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186801:1"/>
+            <head>
+               <add>Carolus II</add>
+               <hi>His Majesties LETTER TO THE Artillery Company:</hi> With an Account of their Proceedings at the Choice of se<g ref="char:EOLhyphen"/>veral Officers for the ensuing Year, on <hi>Wednesday,</hi> the 9<hi>th.</hi> of this instant, <hi>February,</hi> 1680/1.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Artillery Company being Assembled according to Summons and yearly Custom, at the <hi>Armory</hi> in the <hi>Artillery Ground,</hi> to choose new Officers, they proceeded to Election without interruption, and chose Sir <hi>Joseph Shelden,</hi> President; Sir <hi>William Pritchard,</hi> Vice-Pre<g ref="char:EOLhyphen"/>sident; and Sir <hi>Matthew Andrews,</hi> Treasurer: Then proceeding to choose their Court of Assistants, which consists of 24 Members, there was read the List of the Old Assistants. Sir <hi>Joseph Shelden</hi> stood up, and told them that according to ancient Custom, they must choose 8 of the 24 to serve again, and the other 16 whom they pleased, out of the Company, which they did, leaving out 4 of the old 16, <hi>viz.</hi> one Captain of the <hi>Yellow,</hi> and 3 of the <hi>Blew.</hi>
+            </p>
+            <p>Being then to pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed to choose the other Officers, Sir <hi>Joseph</hi> proposed to choose their Lieutenant and Ensign, at which the Company were much distur<g ref="char:EOLhyphen"/>bed, and cryed out, first let us choose our Leader, Sir <hi>Joseph</hi> standing up again, endeavoured to perswade them from it; telling them, he should think himself much obliged to them, if after the Honour they had done him, in choosing him their President, they would so far condescend, as to think him worthy to give them his Advice, and to entreat them that no heat might arise amongst them in that affair, and forasmuch as they had been well Governed for these 3 years last past, without a Leader, they would try it one year more; and also told them that whatever they might think of him, he did propose it as his best Advice: And withal assured them, that so long as he had had the Honor to be of that Society, he had to the utmost of his power, endeavoured to serve them with his best Ser<g ref="char:EOLhyphen"/>vices, and still would continue so to do, and that at any, and at all times, when occasion required it, he should heartily venture his Person and Purse, as far as any man alive, in the Defence of the King, the Laws as now established, and the Protestant Religion, upon which the Company returned Thanks by a general — Then Sir <hi>Matthew Andrews</hi> made a Speech to the same effect, endeavouring like<g ref="char:EOLhyphen"/>wise to perswade them to defer the Choice of a Leader, and proceed to the Choice of a Lieutenant and Ensign, at which the Company with a great cry, said No, No, No, a Leader first, and would by no means be pacified without a Leader, which Sir <hi>Joseph</hi> perceiving, stood up, and in a short Speech told them; Gentlemen, You now compell me to that, which I was in hopes I needed not to have done, and do protest am yet unwilling to do, before I again endeavour to prevail with you to proceed to the Choise of a Lieutenant, and leaving the Choice of a Leader alone: but still with more violence they cryed No, No, No, a Leader, a Leader, no<g ref="char:EOLhyphen"/>thing before a Leader. Then Sir <hi>Joseph Shelden</hi> said; Gentlemen, You force me and I cannot avoid it, to tell you, That I have received a Letter from his Maje<g ref="char:EOLhyphen"/>sty, in order to this days business, which I desire may be read, the purport of which was as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:186801:2"/>
+                  <opener>
+                     <salute>To our Trusty and Well beloved, the Pre<g ref="char:EOLhyphen"/>sident, &amp;c. Greeting,</salute>
+                  </opener>
+                  <p>WHereas according to Custom, you are this day to Choose new Officers for the <hi>Artillery Company;</hi> Our Will and Pleasure is, That in Order to the well Managing and Governing of the said Society, you Choose all your old Offi<g ref="char:EOLhyphen"/>cers again, without making any Alteration: Not doubt<g ref="char:EOLhyphen"/>ing of your ready Compliance; we bid you heartily farewel.</p>
+               </body>
+            </floatingText>
+            <p>After which divers Members stood up, one after another, saying they hum<g ref="char:EOLhyphen"/>bly conceived that there was not any thing in His Majesties Letter, which did forbid their choosing a Leader, but that their proceedings seemed rather to comply with it, for that they intended not to change their Leader, but accord<g ref="char:EOLhyphen"/>ing to Custom to choose their old Leader again, <hi>&amp;c.</hi> Upon which the Letter was read again, and a third time, but the reading thereof did the more confirm them in their Opinion, That His Majesties Letter did no way prohibit their Choosing a Leader. A Worthy Member that was newly chosen into the Assist<g ref="char:EOLhyphen"/>ants, stood up and said, Mr. President, with your Worships favour, I humbly conceive His Majesties gracious Letter to us, may have relation to a particular Circumstance in our Affair of this day, it having been noised about the Town in Coffee-Houses, <hi>&amp;c.</hi> that the <hi>Artillery Company</hi> at their next Choice would leave out the Duke of <hi>York</hi> as their Captain General, and choose some other person of Honour in his Highnesses stead, some fancying one person, and some another, but I hope no Member of this Honourable Society came hither with any such Design, for indeed it doth not lye before us, nor is it the business of this Com<g ref="char:EOLhyphen"/>pany, now perhaps the noise of this Change might come to his Majesties know<g ref="char:EOLhyphen"/>ledge, and probably occasion the sending this Letter, and no other reason, the Assembly seemed well pleased with this motion, by their applauding it with a general Hum. Another standing up, said he Humbly conceived that their past Proceedings were more contradictory to His Majesties Letter than their desiring to proceed to the Election of a Leader could be, and it being fit that his Maje<g ref="char:EOLhyphen"/>sties Letter should be obeyed, asked why the same was not produced sooner, that it might have prevented the past proceedings, as well as the rest of the bu<g ref="char:EOLhyphen"/>siness of the day. Upon which Sir <hi>Joseph</hi> stood up and said, Gentlemen, I do not know what you dare do, but I assure you I dare not do any thing which may seem to oppose this His Majesties Letter, Pray consider what you are doing, and be prevailed with: But they cryed out No, No, No, nothing before a Leader be chosen, a Leader, a Leader, a Leader. Then Sir <hi>James Edwards</hi> stood up and made a Speech to the same purpose as Sir <hi>Joseph Shelden</hi> and Sir <hi>Matthew Andrews</hi> had done before, but nothing could prevail, they being so violently set upon their old Custom, nothing but a Leader, a Leader, <hi>&amp;c.</hi> At which Sir <hi>Joseph</hi> seeing no<g ref="char:EOLhyphen"/>thing would prevail, said Gentlemen, I must Adjourn the Court till some day next Week, against which time you shall have fair Summons, and in the mean time I will wait on the King, and Know his Majesties Royal Pleasure and mean<g ref="char:EOLhyphen"/>ing in the Letter, in which, as in all other Affairs that may concern the Honour and Welfare of this Society, I do promise you to use my utmost endeavour, at which the major part of the Company seemed well pleased, upon Condition, that all the Choices they had made should be void, and to choose all anew when they met again; and so the Court was Adjourned.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>V. T.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
